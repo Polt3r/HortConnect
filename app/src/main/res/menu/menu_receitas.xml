@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuItemLigar" android:title="Ligar"></item>
+    <item android:id="@+id/menuItemMapa" android:title="Mapa"></item>
+    <item android:id="@+id/menuItemEmail" android:title="Email"></item>
+</menu>
